@@ -1,20 +1,20 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ```
-## Aim:
+Aim:
 To write a python program to find a solution to a system of linear equations.
-## Equipment’s required:
+Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-## Algorithm:
-### Step 1: 
+Algorithm:
+Step 1: 
 Import the numpy module to use the built-in functions for calculation
-### Step 2: 
+Step 2: 
 Prepare the lists from each linear equations and assign in np.array()
-### Step 3: 
+Step 3: 
 Using the np.linalg.solve(), we can find the solutions.
-### Step 4: 
+Step 4: 
 End the program
-## Program:
+Program:
 #Program to find the solution for the given linear equations.
 #Developed by: MS.Jeeva 
 #RegisterNumber:21500143
